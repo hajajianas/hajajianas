@@ -1,0 +1,1 @@
+style="border:solid 2px #000000;"   / Cadrer une image
